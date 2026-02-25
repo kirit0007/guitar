@@ -1,0 +1,20 @@
+[
+    {
+        "id": "https://youtu.be/l_hkNKm8h9o?si=4ykpxPf8tR0zbWSp",
+        "title": "Acoustic Anime Medley",
+        "thumbnailUrl": "https://res.cloudinary.com/demo/video/upload/w_800,c_fill,h_450/v1689252329/docs/guitar-playing.jpg",
+        "durationMillis": "234000"
+    },
+    {
+        "id": "https://res.cloudinary.com/demo/video/upload/v1626442654/docs/street-musician.mp4",
+        "title": "Unravel (Tokyo Ghoul)",
+        "thumbnailUrl": "https://res.cloudinary.com/demo/video/upload/w_800,c_fill,h_450/v1626442654/docs/street-musician.jpg",
+        "durationMillis": "188000"
+    },
+    {
+        "id": "https://res.cloudinary.com/demo/video/upload/v1686948574/docs/music-production.mp4",
+        "title": "Gurenge (Demon Slayer)",
+        "thumbnailUrl": "https://res.cloudinary.com/demo/video/upload/w_800,c_fill,h_450/v1686948574/docs/music-production.jpg",
+        "durationMillis": "205000"
+    }
+]
